@@ -12,10 +12,10 @@ various constraints and abstracting data.
 Make sure that you have Microsoft Sql Server installed in your PC. Along with that I have already uploaded the query file which you just have to run to create database. Connect your application from Visual Studio Code with Microsoft Sql Server services of integrating database. You are now good to go! 
 
 ## SCREENSHOTS
-![image](https://user-images.githubusercontent.com/74453775/194844237-ae852d88-2be9-4d6f-bb05-943125e0e176.png)
-![image](https://user-images.githubusercontent.com/74453775/194844305-c8a56825-f212-4fa7-a323-99ca57dd7f21.png)
-![image](https://user-images.githubusercontent.com/74453775/194844342-2840c025-5726-4821-8dc3-498136753504.png)
-![image](https://user-images.githubusercontent.com/74453775/194844377-04f98059-da06-4c10-9960-c408253856ba.png)
+![Screenshot 2024-12-26 200816](https://github.com/user-attachments/assets/20bedde3-ef39-4a76-b365-bfd6cf9c343a)
+![Screenshot 2024-12-26 200835](https://github.com/user-attachments/assets/4199d904-39d9-41ca-a50e-8195de52e539)
+![Screenshot 2024-12-26 200856](https://github.com/user-attachments/assets/29df422d-8cf3-41f0-86f6-a69c57a29d83)
+![Screenshot 2024-12-26 200925](https://github.com/user-attachments/assets/08faff3a-7bf7-4d90-8de8-f896683e25e4)
 ![Screenshot 2024-12-26 174308](https://github.com/user-attachments/assets/352430df-a68f-4254-bf7f-a0a90ae95c7b)
 ![image](https://user-images.githubusercontent.com/74453775/194844477-33ba1df0-6db8-46e9-92a0-41db5fba5ad4.png)
 ![image](https://user-images.githubusercontent.com/74453775/194844545-01c26a2e-65cf-422e-bcbe-545e5fe98cca.png)
