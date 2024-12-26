@@ -34,11 +34,13 @@ Make sure that you have Microsoft Sql Server installed in your PC. Along with th
 ![Screenshot 2024-12-26 192605](https://github.com/user-attachments/assets/6393935e-c7e5-43df-b64a-a52198e10aa2)
 ![Screenshot 2024-12-26 192643](https://github.com/user-attachments/assets/776fa6d5-697c-4302-b1fc-cd42730ceba2)
 ![Screenshot 2024-12-26 193224](https://github.com/user-attachments/assets/b11a1a1d-56db-4291-91ce-bbc9ce381ac5)
-
-![image](https://user-images.githubusercontent.com/74453775/194845204-f1e24881-841b-4827-bc36-d86f15ce80d2.png)
-![image](https://user-images.githubusercontent.com/74453775/194845255-a691caea-fdf7-4c2b-a886-ce053146c9ec.png)
-![image](https://user-images.githubusercontent.com/74453775/194845282-2b07bfe4-2b35-4363-88f6-84901ef4a0bf.png)
-
+![Screenshot 2024-12-26 193504](https://github.com/user-attachments/assets/40969866-d695-44a3-99a1-a766395c9eb7)
+![Screenshot 2024-12-26 193620](https://github.com/user-attachments/assets/ce304d1f-bda4-4814-8acf-ba532ab4b7bf)
+![Screenshot 2024-12-26 193806](https://github.com/user-attachments/assets/78d0e117-509a-4737-96a7-59ae2f09d6f4)
+![Screenshot 2024-12-26 193857](https://github.com/user-attachments/assets/d3adc05c-9adf-457c-9741-2973bc04b243)
+![Screenshot 2024-12-26 194014](https://github.com/user-attachments/assets/6436c1f1-3325-4523-9799-022c2943b9b7)
+![Screenshot 2024-12-26 194203](https://github.com/user-attachments/assets/bec0aaa1-dcba-46b8-a70a-4a3eb39bc19c)
+![Screenshot 2024-12-26 194232](https://github.com/user-attachments/assets/b54caafe-3704-4793-8f1d-6062790b823d)
 
 ## OBJECTIVES
 Here's the logic behind our project. The design of our project is based on SAS applications where 
@@ -101,9 +103,9 @@ Statics file. We also research about basics of C# as it was new for us along wit
 new environment for us to work. Another challenge was that to decide where to use foreign keys in 
 regards to using it in plain MS Sql server and then accessing it from the frontend. We wanted to use 
 few dependencies in order to generate reports which was a challenge for us. When we create accounts 
-our initial approach was to email username and password to user but after 30 May 2022 it was 
-restricted by Gmail to access any third party software so we ended up using security question and 
-answer to overcome it.
+our initial approach was to email username and password to user but after 
+30 November 2024 it was restricted by Gmail to access any third party software so we ended up using security 
+question and answer to overcome it.
 
 ## TOOLS AND TECHNIQUES
 The language that is used is C# and for IDE Visual Studio is primarily used. Basic concepts of 
@@ -119,8 +121,5 @@ optimize work load of everyone and reduce human efforts and work load and replac
 paper work.
 
 FOR MORE DETAILED EXPLANATION, PLEASE REVIEW OUR PROJECT REPORT WHICH CONTAINS UI IMAGES AND MORE VALUABLE INFORMATION!
-
-## Extended Software Documentation Repository Link:
-> https://github.com/aliasar1/Hotel-Management-System-Documentation
 
 HAPPY CODING! :D
