@@ -42,6 +42,7 @@ Make sure that you have Microsoft Sql Server installed in your PC. Along with th
 ![Screenshot 2024-12-26 194203](https://github.com/user-attachments/assets/bec0aaa1-dcba-46b8-a70a-4a3eb39bc19c)
 ![Screenshot 2024-12-26 194232](https://github.com/user-attachments/assets/b54caafe-3704-4793-8f1d-6062790b823d)
 
+
 ## OBJECTIVES
 Here's the logic behind our project. The design of our project is based on SAS applications where 
 we provide Software as Service. Firstly, we are the super admins of this application and the hotel 
