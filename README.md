@@ -19,11 +19,8 @@ Make sure that you have Microsoft Sql Server installed in your PC. Along with th
 ![Screenshot 2024-12-26 174308](https://github.com/user-attachments/assets/352430df-a68f-4254-bf7f-a0a90ae95c7b)
 ![Screenshot 2024-12-26 174357](https://github.com/user-attachments/assets/56bc2698-b10c-497c-86e5-24334cf8a2b5)
 ![Screenshot 2024-12-26 174926](https://github.com/user-attachments/assets/2fbe001b-d280-4928-be76-12eb70233621)
-![Screenshot 2024-12-26 175040](https://github.com/user-attachments/assets/b34cbab9-9363-4e61-82e6-db57047ed18e)
-![Screenshot 2024-12-26 175245](https://github.com/user-attachments/assets/06fb8700-2c60-4fec-887d-0830403f2e73)
 ![Screenshot 2024-12-26 175737](https://github.com/user-attachments/assets/d2630fc8-9492-4a18-8017-63a1a3f77e80)
 ![Screenshot 2024-12-26 175844](https://github.com/user-attachments/assets/adf763c7-bb19-411c-b714-02eec4e424e5)
-
 ![image](https://user-images.githubusercontent.com/74453775/194844477-33ba1df0-6db8-46e9-92a0-41db5fba5ad4.png)
 ![image](https://user-images.githubusercontent.com/74453775/194844545-01c26a2e-65cf-422e-bcbe-545e5fe98cca.png)
 ![image](https://user-images.githubusercontent.com/74453775/194844605-46958db5-5eec-419f-ad1a-f45b0a102e08.png)
